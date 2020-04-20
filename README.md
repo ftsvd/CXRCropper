@@ -42,4 +42,4 @@ Uncropped test DICOM images are in their respective folder
 > The whole point of this useless exercise was to crop out the lung-heart-mediastinum to use as training images for pneumothorax segmentation in the SiiM Pneumothorax challenge.
 > Therefore, if I had managed to train a pneumothorax detection model on the cropped images (I didn't manage to), I would have needed to know what was cropped so that I could "uncrop" it later for submission.
 
-I'm reachable at ftsvd@yahoo.com
+My name is Kim-Ann Git. I'm a radiologist and I'm reachable at ftsvd@yahoo.com
