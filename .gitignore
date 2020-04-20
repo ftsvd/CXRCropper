@@ -3,3 +3,4 @@ cropped_test_images/*.png
 cropped_test_images/*.csv
 cropped_test_images_masks/*.png
 model/bestmodel.h5
+social_preview.png
