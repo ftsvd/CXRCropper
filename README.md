@@ -25,11 +25,11 @@ U-Net. The pretrained model was trained for 400 epochs. I think. It was a lifeti
 
 ### Test data
 
-Uncropped test DICOM images are in their respective folder
+Uncropped images are either in DICOM (uncropped_test_dicom) or PNG (uncropped_test_png)
 
 ### Test output
 
-1. A PNG file of the cropped test DICOM is saved in cropped_test_images
+1. A PNG file of the cropped test DICOM/PNG is saved in cropped_test_images
 2. A PNG collage of the uncropped image, cropped area, predicted mask and cropped image is saved in cropped_test_images_masks
 3. The notebook will display the results as well
 
